@@ -2,8 +2,6 @@ import streamlit as st
 import pandas as pd
 import pickle
 from streamlit_option_menu import option_menu
-from PIL import Image
-import scipy as sp
 import numpy as np
 
 st.set_page_config(page_title="Welcome at Kurniawan's Skripsi!", layout="wide")
